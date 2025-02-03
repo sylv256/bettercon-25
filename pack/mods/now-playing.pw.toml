@@ -1,0 +1,13 @@
+name = "Now Playing"
+filename = "now-playing-fabric-1.5.13-beta.1+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eNF4Bfla/versions/Kf9mlH2K/now-playing-fabric-1.5.13-beta.1%2B1.21.jar"
+hash-format = "sha1"
+hash = "1b611582ffa6d1938f95bb6bba7502bfcab23bf0"
+
+[update]
+[update.modrinth]
+mod-id = "eNF4Bfla"
+version = "Kf9mlH2K"

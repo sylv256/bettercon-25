@@ -1,0 +1,256 @@
+{
+	"display_settings": {
+		"draw_mini_icons": true,
+		"library_color": "#331714",
+		"library_set_name_color": "#ffffff",
+		"viewer_top_color": "#331714",
+		"viewer_bottom_color": "#180101"
+	},
+	"mf_121:cartography": {
+		"text_color": "#43f099",
+		"glow_color": "#00ff48",
+		"icon_offsets": {
+			"normal": {
+				"top": 13,
+				"left": 3
+			},
+			"mini": {
+				"top": 6,
+				"left": 1
+			}
+		},
+		"collect_particle": "minecraft:glow",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_visitor"
+		},
+		"list_order": 1
+	},
+	"mf_121:fire": {
+		"text_color": "#b56a2a",
+		"glow_color": "#fff596",
+		"icon_offsets": {
+			"normal": {
+				"top": 14,
+				"left": 4
+			},
+			"mini": {
+				"top": 7,
+				"left": 2
+			}
+		},
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 2
+	},
+	"mf_121:agriculture": {
+		"text_color": "#b56a2a",
+		"glow_color": "#fff596",
+		"icon_offsets": {
+			"normal": {
+				"top": 14,
+				"left": 4
+			},
+			"mini": {
+				"top": 7,
+				"left": 2
+			}
+		},
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 3
+	},
+	"mf_121:writing": {
+		"text_color": "#b56a2a",
+		"glow_color": "#fff596",
+		"icon_offsets": {
+			"normal": {
+				"top": 8,
+				"left": 4
+			},
+			"mini": {
+				"top": 4,
+				"left": 2
+			}
+		},
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 4
+	},
+	"mf_121:wheel": {
+		"text_color": "#fcd64c",
+		"glow_color": "#fff596",
+		"icon_offsets": {
+			"normal": {
+				"top": 8,
+				"left": 4
+			},
+			"mini": {
+				"top": 4,
+				"left": 2
+			}
+		},
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 5
+	},
+	"mf_121:metalworking": {
+		"text_color": "#fcd64c",
+		"glow_color": "#fff596",
+		"icon_offsets": {
+			"normal": {
+				"top": 9,
+				"left": 4
+			},
+			"mini": {
+				"top": 4,
+				"left": 2
+			}
+		},
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 6
+	},
+	"mf_121:printing_press": {
+		"text_color": "#fcd64c",
+		"glow_color": "#fff596",
+		"icon_offsets": {
+			"normal": {
+				"top": 14,
+				"left": 4
+			},
+			"mini": {
+				"top": 7,
+				"left": 2
+			}
+		},
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 7
+	},
+	"mf_121:combustion_engine": {
+		"text_color": "#ca295c",
+		"glow_color": "#fff596",
+		"icon_offsets": {
+			"normal": {
+				"top": 14,
+				"left": 4
+			},
+			"mini": {
+				"top": 7,
+				"left": 2
+			}
+		},
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 8
+	},
+	"mf_121:electricity": {
+		"text_color": "#ca295c",
+		"glow_color": "#fff596",
+		"icon_offsets": {
+			"normal": {
+				"top": 13,
+				"left": 4
+			},
+			"mini": {
+				"top": 6,
+				"left": 2
+			}
+		},
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 9
+	},
+	"mf_121:radio": {
+		"text_color": "#ca295c",
+		"glow_color": "#fff596",
+		"icon_offsets": {
+			"normal": {
+				"top": 15,
+				"left": 4
+			},
+			"mini": {
+				"top": 7,
+				"left": 2
+			}
+		},
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 9
+	},
+	"mf_121:television": {
+		"text_color": "#e28cbf",
+		"glow_color": "#fff596",
+		"icon_offsets": {
+			"normal": {
+				"top": 14,
+				"left": 2
+			},
+			"mini": {
+				"top": 7,
+				"left": 1
+			}
+		},
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 10
+	},
+	"mf_121:internet": {
+		"text_color": "#e28cbf",
+		"glow_color": "#fff596",
+		"icon_offsets": {
+			"normal": {
+				"top": 6,
+				"left": 4
+			},
+			"mini": {
+				"top": 3,
+				"left": 2
+			}
+		},
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 11
+	},
+	"mf_121:warp_drive": {
+		"text_color": "#e28cbf",
+		"glow_color": "#fff596",
+		"icon_offsets": {
+			"normal": {
+				"top": 8,
+				"left": 4
+			},
+			"mini": {
+				"top": 4,
+				"left": 2
+			}
+		},
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 12
+	}
+}

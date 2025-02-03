@@ -1,0 +1,32 @@
+{
+	"music.time": {
+		"sounds": [
+			"modfest:music/time"
+		]
+	},
+	"music.time.stereo": {
+		"sounds": [
+			"modfest:music/time_stereo"
+		]
+	},
+	"music.epoch": {
+		"sounds": [
+			"modfest:music/epoch"
+		]
+	},
+	"music.epoch_stereo": {
+		"sounds": [
+			"modfest:music/epoch_stereo"
+		]
+	},
+	"music.time_farewell": {
+		"sounds": [
+			"modfest:music/time_farewell"
+		]
+	},
+	"music.time_farewell_stereo": {
+		"sounds": [
+			"modfest:music/time_farewell_stereo"
+		]
+	}
+}

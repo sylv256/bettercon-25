@@ -1,0 +1,26 @@
+{
+	"parent": "minecraft:item/template_music_disc",
+	"textures": {
+		"layer0": "minecraft:item/music_disc_cat"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "modfest:item/music/time"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "modfest:item/music/epoch"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "modfest:item/music/time_farewell"
+		}
+	]
+}

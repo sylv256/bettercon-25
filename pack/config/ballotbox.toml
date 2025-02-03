@@ -1,0 +1,27 @@
+# Whether to replace the send feedback button with a voting button
+# default: true
+replace_feedback = true
+# Whether to replace the bug report button with another link
+# default: true
+replace_bugs = true
+# The text to use to replace the bug report button
+# default: ModFest Discord
+bug_text = "Modfest Discord"
+# The link to use to replace the bug report button
+# default: https://discord.gg/gn543Ee
+bug_url = "https://discord.gg/gn543Ee"
+# Whether to replace the realms button on the title screen with a credits button
+# default: true
+replace_realms_credits = true
+# Whether to replace the player reporting button on the pause screen with a credits button
+# default: true
+replace_reporting_credits = true
+# The text to use for replacement credits but tons button
+# default: Modpack Credits
+credits_text = "Modpack Credits"
+# The number of top results to show when displaying voting results
+# default: 8
+awardLimit = 8
+# The closing date, as an ISO local date time - or an empty string for none
+# default: 2024-12-16T12:00:00
+closingTime = "2025-03-31T12:00:00"

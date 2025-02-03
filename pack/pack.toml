@@ -1,0 +1,13 @@
+name = "BlanketCon '25"
+author = "ModFest"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2e80301dd3d1dabc953f0742e672ccc69104561c77a09b3a23642c2aace8f683"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"

@@ -1,0 +1,15 @@
+{
+	"shard_type.mf_121.cartography.description": "Cartography Shard",
+	"shard_type.mf_121.fire.description": "Fire Shard",
+	"shard_type.mf_121.agriculture.description": "Agriculture Shard",
+	"shard_type.mf_121.writing.description": "Writing Shard",
+	"shard_type.mf_121.wheel.description": "The Wheel Shard",
+	"shard_type.mf_121.metalworking.description": "Metalworking Shard",
+	"shard_type.mf_121.printing_press.description": "Printing Press Shard",
+	"shard_type.mf_121.combustion_engine.description": "Combustion Engine Shard",
+	"shard_type.mf_121.electricity.description": "Electricity Shard",
+	"shard_type.mf_121.radio.description": "Radio Shard",
+	"shard_type.mf_121.television.description": "Television Shard",
+	"shard_type.mf_121.internet.description": "Internet Shard",
+	"shard_type.mf_121.warp_drive.description": "Warp Drive Shard"
+}

@@ -1,0 +1,13 @@
+*.mrpack
+# Output of assemble scripts
+/generated
+# run_test.py will run a minecraft server here
+/run
+
+# Somewhat prevent packwiz internal hashes from clogging up git history 
+/pack/index.toml
+
+# The banes of all git repos
+__pycache__
+.DS_STORE
+.idea/

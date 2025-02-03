@@ -1,0 +1,13 @@
+name = "Glowcase"
+filename = "glowcase-1.7.6+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HPdKhYvx/versions/VUUM7K32/glowcase-1.7.6%2B1.21.jar"
+hash-format = "sha512"
+hash = "7c4b0fd2760be93b09f968297ea91bcf1f39a7042dba1c3e625e2962b017c33d89030088d22b6d26e5b93c1b49228175161dda5da049e9b2de7e18f340c678f1"
+
+[update]
+[update.modrinth]
+mod-id = "HPdKhYvx"
+version = "VUUM7K32"

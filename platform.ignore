@@ -1,0 +1,3 @@
+# A list of submissions which should not be imported into the resulting pack
+# Each line should contain a submission id. The script will warn you
+# if the id does not refer to a submission

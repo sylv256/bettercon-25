@@ -1,0 +1,20 @@
+{
+	"music.menu": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "modfest:music/time_stereo",
+				"stream": true
+			}
+		]
+	},
+	"music.credits": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "modfest:music/time_farewell_stereo",
+				"stream": true
+			}
+		]
+	}
+}

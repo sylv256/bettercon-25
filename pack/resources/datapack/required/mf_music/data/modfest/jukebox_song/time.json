@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "jukebox_song.modfest.time"
+	},
+	"length_in_seconds": 186.0,
+	"sound_event": {
+		"sound_id": "modfest:music.time"
+	}
+}

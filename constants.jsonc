@@ -1,0 +1,32 @@
+{
+    // The name used for pulling from ModFest's platform api
+    "event": "bc25",
+    // The subdirectory in https://github.com/ModFest/art used for pulling the icon
+    "art_id": "bc25",
+
+    // Central definition of colours
+    // This is a freeform key-value field. Values prefixed with an underscore are depended upon by scripts
+    "colours": {
+        "primary": "#DE634C",
+        "secondary": "#290800",
+        "background": "#331714",
+        "background_secondary": "#180101",
+
+        // Unsup colours. See https://git.sleeping.town/unascribed/unsup/wiki/Config-format
+        "_unsup_background": ".background",
+        // Colour of the title text
+        "_unsup_title": "#FFFFFF",
+        // Colour of the subtitle text. Is usually shaded to match the background slightly
+        "_unsup_subtitle": "#CAA09B",
+        // The color of the filled portion of the progress bar and wheel
+        "_unsup_progress": ".primary",
+        // The color of the non-filled portion of the progress bar
+        "_unsup_progress_track": ".secondary",
+        // The color of the text in a dialog
+        "_unsup_dialog": "#FFFFFF",
+        // The background color of buttons. Please ensure this has enough contrast with the button text!
+        "_unsup_button": ".primary",
+        // The color of text in buttons
+        "_unsup_button_text": "#000000"
+    }
+}

@@ -1,0 +1,276 @@
+[
+	{
+		"section": "Showcase Volunteers",
+		"disciplines": [
+			{
+				"discipline": "Volunteer Artists",
+				"titles": [
+					{
+						"title": "Lead Soundtrack Artist",
+						"names": [
+							"Nulb"
+						]
+					},
+					{
+						"title": "Soundtrack Artist",
+						"names": [
+							"WorldWidePixel",
+							"maple (lumiscosity)"
+						]
+					},
+					{
+						"title": "Additional Music",
+						"names": [
+							"Bandit (artificial.fever)"
+						]
+					},
+					{
+						"title": "Texture Artist",
+						"names": [
+							"wishi (dreamiwishi)"
+						]
+					}
+				]
+			},
+			{
+				"discipline": "Volunteer Builders",
+				"titles": [
+					{
+						"title": "Mapwide Ghostbuilder",
+						"names": [
+							"Echo (CallMeEcho)"
+						]
+					},
+					{
+						"title": "Executive Minigamer",
+						"names": [
+							"apfelrunder"
+						]
+					}
+				]
+			},
+			{
+				"discipline": "Volunteer Developers",
+				"titles": [
+					{
+						"title": "Re-Connector",
+						"names": [
+							"Su5eD"
+						]
+					}
+				]
+			},
+			{
+				"discipline": "Volunteer Team Members",
+				"titles": [
+					{
+						"title": "Showrunner",
+						"names": [
+							"hama"
+						]
+					},
+					{
+						"title": "Ghostshowrunner",
+						"names": [
+							"afamiliarquiet"
+						]
+					},
+					{
+						"title": "Shadow showrunner",
+						"names": [
+							"Chai"
+						]
+					},
+					{
+						"title": "Absentee sous-showrunners",
+						"names": [
+							"Sisby folk"
+						]
+					},
+					{
+						"title": "Hand of Epoch / Solve-everythinger",
+						"names": [
+							"TheEpicBlock"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"section": "Jam & Showcase Participants",
+		"disciplines": [
+			{
+				"discipline": "Modding Teams",
+				"titles": [
+				]
+			}
+		]
+	},
+	{
+		"section": "ModFest Team",
+		"disciplines": [
+			{
+				"discipline": "Team Members",
+				"titles": [
+					{
+						"title": "Still technically the site admin",
+						"names": [
+							"2xSaiko"
+						]
+					},
+					{
+						"title": "Bearer of the torch",
+						"names": [
+							"acikek"
+						]
+					},
+					{
+						"title": "Archbuilder",
+						"names": [
+							"afamiliarquiet"
+						]
+					},
+					{
+						"title": "Surprise fan artist",
+						"names": [
+							"Aqua (aquaholic)"
+						]
+					},
+					{
+						"title": "Obvious Participant Plant",
+						"names": [
+							"Chai"
+						]
+					},
+					{
+						"title": "Cyborg-human media relations",
+						"names": [
+							"CyborgPigeon"
+						]
+					},
+					{
+						"title": "Notorious painter",
+						"names": [
+							"wishi (dreamiwishi)"
+						]
+					},
+					{
+						"title": "Responsible adult",
+						"names": [
+							"Falkreon"
+						]
+					},
+					{
+						"title": "Twofer showrunner",
+						"names": [
+							"hama"
+						]
+					},
+					{
+						"title": "Mod submission speedrunner",
+						"names": [
+							"Infinidoge"
+						]
+					},
+					{
+						"title": "Crisis response",
+						"names": [
+							"IThundxr"
+						]
+					},
+					{
+						"title": "Robotic robot whisperer",
+						"names": [
+							"Jasmine (jaskarth)"
+						]
+					},
+					{
+						"title": "Worm and Wall builder",
+						"names": [
+							"June (Khazoda)"
+						]
+					},
+					{
+						"title": "Known Vriska",
+						"names": [
+							"vriska (leo60228)"
+						]
+					},
+					{
+						"title": "Showrunner's sober companion",
+						"names": [
+							"Lgmrszd"
+						]
+					},
+					{
+						"title": "Tea party host",
+						"names": [
+							"Maximum"
+						]
+					},
+					{
+						"title": "Resident DJ",
+						"names": [
+							"Nulb"
+						]
+					},
+					{
+						"title": "Honourable server admin",
+						"names": [
+							"oatmealine"
+						]
+					},
+					{
+						"title": "Server-side god-emperor",
+						"names": [
+							"Patbox"
+						]
+					},
+					{
+						"title": "Town founder / Modrinth enthusiast",
+						"names": [
+							"Prospector"
+						]
+					},
+					{
+						"title": "Still a site admin",
+						"names": [
+							"Pyrrha"
+						]
+					},
+					{
+						"title": "Stop-motion animator",
+						"names": [
+							"Sammy"
+						]
+					},
+					{
+						"title": "Insidious idea-havers",
+						"names": [
+							"Sisby folk"
+						]
+					},
+					{
+						"title": "Saviour on two wheels",
+						"names": [
+							"TheEpicBlock"
+						]
+					},
+					{
+						"title": "Card dealer",
+						"names": [
+							"Trudle"
+						]
+					},
+					{
+						"title": "Mario 64 Enthusiast",
+						"names": [
+							"Tropheus Jay (TropheusJ)"
+						]
+					}
+				]
+			}
+		]
+	}
+]
