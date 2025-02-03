@@ -9,15 +9,15 @@
     "colours": {
         "primary": "#49c2e0",
         "secondary": "#ffc849",
-        "background": "#003441",
+        "background": "#ffdf93",
         "background_secondary": "#180101",
 
         // Unsup colours. See https://git.sleeping.town/unascribed/unsup/wiki/Config-format
         "_unsup_background": ".background",
         // Colour of the title text
-        "_unsup_title": "#FFFFFF",
+        "_unsup_title": "#003441",
         // Colour of the subtitle text. Is usually shaded to match the background slightly
-        "_unsup_subtitle": "#CAA09B",
+        "_unsup_subtitle": "#c28304",
         // The color of the filled portion of the progress bar and wheel
         "_unsup_progress": ".primary",
         // The color of the non-filled portion of the progress bar
