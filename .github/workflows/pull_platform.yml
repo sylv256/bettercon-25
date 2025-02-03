@@ -34,7 +34,7 @@ jobs:
           key: packwiz-${{ env.PACKWIZ_COMMIT }}
       - if: ${{ steps.cache-packwiz.outputs.cache-hit != 'true' }}
         name: Download Packwiz
-        uses: dawidd6/action-download-artifact@v6
+        uses: dawidd6/action-download-artifact@v8
         with:
           github_token: ${{secrets.GITHUB_TOKEN}}
           repo: packwiz/packwiz
