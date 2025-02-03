@@ -7,9 +7,9 @@
     // Central definition of colours
     // This is a freeform key-value field. Values prefixed with an underscore are depended upon by scripts
     "colours": {
-        "primary": "#DE634C",
-        "secondary": "#290800",
-        "background": "#331714",
+        "primary": "#49c2e0",
+        "secondary": "#ffc849",
+        "background": "#003441",
         "background_secondary": "#180101",
 
         // Unsup colours. See https://git.sleeping.town/unascribed/unsup/wiki/Config-format
