@@ -24,7 +24,7 @@ def main():
         sys.exit(1)
     if not url.endswith("pack.toml"):
         print(f"{Ansi.WARN}URL does not end with \"pack.toml\", please make sure it's correct{Ansi.RESET}")
-    unsup_v = common.env("UNSUP_VERSION", default="0.2.3")
+    unsup_v = common.env("UNSUP_VERSION", default="1.0-rc2")
 
     print(f"Using unsup version {unsup_v}")
     
