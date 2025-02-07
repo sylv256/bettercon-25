@@ -36,6 +36,12 @@
 				"discipline": "Volunteer Builders",
 				"titles": [
 					{
+						"title": "Volcano Island WorldPainter",
+						"names": [
+							"Phanastrae"
+						]
+					},
+					{
 						"title": "Mapwide Ghostbuilder",
 						"names": [
 							"Echo (CallMeEcho)"

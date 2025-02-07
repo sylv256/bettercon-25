@@ -6,7 +6,7 @@
 		"viewer_top_color": "#331714",
 		"viewer_bottom_color": "#180101"
 	},
-	"mf_121:cartography": {
+	"modfest:cartography": {
 		"text_color": "#43f099",
 		"glow_color": "#00ff48",
 		"icon_offsets": {
@@ -25,7 +25,7 @@
 		},
 		"list_order": 1
 	},
-	"mf_121:fire": {
+	"modfest:fire": {
 		"text_color": "#b56a2a",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -44,7 +44,7 @@
 		},
 		"list_order": 2
 	},
-	"mf_121:agriculture": {
+	"modfest:agriculture": {
 		"text_color": "#b56a2a",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -63,7 +63,7 @@
 		},
 		"list_order": 3
 	},
-	"mf_121:writing": {
+	"modfest:writing": {
 		"text_color": "#b56a2a",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -82,7 +82,7 @@
 		},
 		"list_order": 4
 	},
-	"mf_121:wheel": {
+	"modfest:wheel": {
 		"text_color": "#fcd64c",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -101,7 +101,7 @@
 		},
 		"list_order": 5
 	},
-	"mf_121:metalworking": {
+	"modfest:metalworking": {
 		"text_color": "#fcd64c",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -120,7 +120,7 @@
 		},
 		"list_order": 6
 	},
-	"mf_121:printing_press": {
+	"modfest:printing_press": {
 		"text_color": "#fcd64c",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -139,7 +139,7 @@
 		},
 		"list_order": 7
 	},
-	"mf_121:combustion_engine": {
+	"modfest:combustion_engine": {
 		"text_color": "#ca295c",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -158,7 +158,7 @@
 		},
 		"list_order": 8
 	},
-	"mf_121:electricity": {
+	"modfest:electricity": {
 		"text_color": "#ca295c",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -177,7 +177,7 @@
 		},
 		"list_order": 9
 	},
-	"mf_121:radio": {
+	"modfest:radio": {
 		"text_color": "#ca295c",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -196,7 +196,7 @@
 		},
 		"list_order": 9
 	},
-	"mf_121:television": {
+	"modfest:television": {
 		"text_color": "#e28cbf",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -215,7 +215,7 @@
 		},
 		"list_order": 10
 	},
-	"mf_121:internet": {
+	"modfest:internet": {
 		"text_color": "#e28cbf",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -234,7 +234,7 @@
 		},
 		"list_order": 11
 	},
-	"mf_121:warp_drive": {
+	"modfest:warp_drive": {
 		"text_color": "#e28cbf",
 		"glow_color": "#fff596",
 		"icon_offsets": {
