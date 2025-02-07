@@ -23,7 +23,7 @@
         // The color of the non-filled portion of the progress bar
         "_unsup_progress_track": ".secondary",
         // The color of the text in a dialog
-        "_unsup_dialog": "#FFFFFF",
+        "_unsup_dialog": "#003441",
         // The background color of buttons. Please ensure this has enough contrast with the button text!
         "_unsup_button": ".primary",
         // The color of text in buttons
