@@ -1,14 +1,14 @@
 {
 	"display_settings": {
 		"draw_mini_icons": true,
-		"library_color": "#331714",
+		"library_color": "#ffdf93",
 		"library_set_name_color": "#ffffff",
-		"viewer_top_color": "#331714",
-		"viewer_bottom_color": "#180101"
+		"viewer_top_color": "#ffdf93",
+		"viewer_bottom_color": "#c28304"
 	},
-	"modfest:cartography": {
-		"text_color": "#43f099",
-		"glow_color": "#00ff48",
+	"modfest:coconut": {
+		"text_color": "#ffffff",
+		"glow_color": "#ffc849",
 		"icon_offsets": {
 			"normal": {
 				"top": 13,
@@ -25,7 +25,7 @@
 		},
 		"list_order": 1
 	},
-	"modfest:fire": {
+	"modfest:avocado": {
 		"text_color": "#b56a2a",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -44,7 +44,7 @@
 		},
 		"list_order": 2
 	},
-	"modfest:agriculture": {
+	"modfest:banana": {
 		"text_color": "#b56a2a",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -63,7 +63,7 @@
 		},
 		"list_order": 3
 	},
-	"modfest:writing": {
+	"modfest:durian": {
 		"text_color": "#b56a2a",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -82,7 +82,7 @@
 		},
 		"list_order": 4
 	},
-	"modfest:wheel": {
+	"modfest:dragonfruit": {
 		"text_color": "#fcd64c",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -101,7 +101,7 @@
 		},
 		"list_order": 5
 	},
-	"modfest:metalworking": {
+	"modfest:lychee": {
 		"text_color": "#fcd64c",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -120,7 +120,7 @@
 		},
 		"list_order": 6
 	},
-	"modfest:printing_press": {
+	"modfest:mango": {
 		"text_color": "#fcd64c",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -139,7 +139,7 @@
 		},
 		"list_order": 7
 	},
-	"modfest:combustion_engine": {
+	"modfest:passionfruit": {
 		"text_color": "#ca295c",
 		"glow_color": "#fff596",
 		"icon_offsets": {
@@ -157,100 +157,5 @@
 			"sound_id": "scattered_shards:collect_challenge"
 		},
 		"list_order": 8
-	},
-	"modfest:electricity": {
-		"text_color": "#ca295c",
-		"glow_color": "#fff596",
-		"icon_offsets": {
-			"normal": {
-				"top": 13,
-				"left": 4
-			},
-			"mini": {
-				"top": 6,
-				"left": 2
-			}
-		},
-		"collect_particle": "minecraft:wax_off",
-		"collect_sound": {
-			"sound_id": "scattered_shards:collect_challenge"
-		},
-		"list_order": 9
-	},
-	"modfest:radio": {
-		"text_color": "#ca295c",
-		"glow_color": "#fff596",
-		"icon_offsets": {
-			"normal": {
-				"top": 15,
-				"left": 4
-			},
-			"mini": {
-				"top": 7,
-				"left": 2
-			}
-		},
-		"collect_particle": "minecraft:wax_off",
-		"collect_sound": {
-			"sound_id": "scattered_shards:collect_challenge"
-		},
-		"list_order": 9
-	},
-	"modfest:television": {
-		"text_color": "#e28cbf",
-		"glow_color": "#fff596",
-		"icon_offsets": {
-			"normal": {
-				"top": 14,
-				"left": 2
-			},
-			"mini": {
-				"top": 7,
-				"left": 1
-			}
-		},
-		"collect_particle": "minecraft:wax_off",
-		"collect_sound": {
-			"sound_id": "scattered_shards:collect_challenge"
-		},
-		"list_order": 10
-	},
-	"modfest:internet": {
-		"text_color": "#e28cbf",
-		"glow_color": "#fff596",
-		"icon_offsets": {
-			"normal": {
-				"top": 6,
-				"left": 4
-			},
-			"mini": {
-				"top": 3,
-				"left": 2
-			}
-		},
-		"collect_particle": "minecraft:wax_off",
-		"collect_sound": {
-			"sound_id": "scattered_shards:collect_challenge"
-		},
-		"list_order": 11
-	},
-	"modfest:warp_drive": {
-		"text_color": "#e28cbf",
-		"glow_color": "#fff596",
-		"icon_offsets": {
-			"normal": {
-				"top": 8,
-				"left": 4
-			},
-			"mini": {
-				"top": 4,
-				"left": 2
-			}
-		},
-		"collect_particle": "minecraft:wax_off",
-		"collect_sound": {
-			"sound_id": "scattered_shards:collect_challenge"
-		},
-		"list_order": 12
 	}
 }
