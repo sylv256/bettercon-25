@@ -1,32 +1,22 @@
 {
-	"music.time": {
+	"music.dormant": {
 		"sounds": [
-			"modfest:music/time"
+			"modfest:music/dormant"
 		]
 	},
-	"music.time.stereo": {
+	"music.dormant.stereo": {
 		"sounds": [
-			"modfest:music/time_stereo"
+			"modfest:music/dormant_stereo"
 		]
 	},
-	"music.epoch": {
+	"music.mechanical_plateau": {
 		"sounds": [
-			"modfest:music/epoch"
+			"modfest:music/mechanical_plateau"
 		]
 	},
-	"music.epoch_stereo": {
+	"music.mechanical_plateau_stereo": {
 		"sounds": [
-			"modfest:music/epoch_stereo"
-		]
-	},
-	"music.time_farewell": {
-		"sounds": [
-			"modfest:music/time_farewell"
-		]
-	},
-	"music.time_farewell_stereo": {
-		"sounds": [
-			"modfest:music/time_farewell_stereo"
+			"modfest:music/mechanical_plateau_stereo"
 		]
 	}
 }

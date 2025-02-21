@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "modfest:item/music/time_farewell"
+		"layer0": "modfest:item/music/mechanical_plateau"
 	}
 }

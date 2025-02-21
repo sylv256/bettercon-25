@@ -1,17 +1,4 @@
 {
-	"jukebox_song.modfest.time": "Nulb - TIME",
-	"jukebox_song.modfest.epoch": "lumiscosity - Hymn of Epoch",
-	"jukebox_song.modfest.time_farewell": "WorldWidePixel - Time Enough to Say Farewell",
-	"subtitles.mf_music.music.time": "Music: TIME - Nulb",
-	"subtitles.mf_music.music.time_stereo": "Music: TIME - Nulb",
-	"subtitles.mf_music.music.epoch": "Music: Hymn of Epoch - lumiscosity",
-	"subtitles.mf_music.music.epoch_stereo": "Music: Hymn of Epoch - lumiscosity",
-	"subtitles.mf_music.music.time_farewell": "Music: Time Enough to Say Farewell - WorldWidePixel",
-	"subtitles.mf_music.music.time_farewell_stereo": "Music: Time Enough to Say Farewell - WorldWidePixel",
-	"music.now-playing.time": "Nulb - TIME",
-	"music.now-playing.time_stereo": "Nulb - TIME",
-	"music.now-playing.epoch": "lumiscosity - Hymn of Epoch",
-	"music.now-playing.epoch_stereo": "lumiscosity - Hymn of Epoch",
-	"music.now-playing.time_farewell": "WorldWidePixel - Time Enough to Say Farewell",
-	"music.now-playing.time_farewell_stereo": "WorldWidePixel - Time Enough to Say Farewell"
+	"jukebox_song.modfest.dormant": "Nulb - Dormant",
+	"jukebox_song.modfest.mechanical_plateau": "WorldWidePixel - Mechanical Plateau"
 }
