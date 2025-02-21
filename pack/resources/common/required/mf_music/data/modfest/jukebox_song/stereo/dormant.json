@@ -5,6 +5,6 @@
 	},
 	"length_in_seconds": 175.0,
 	"sound_event": {
-		"sound_id": "modfest:music.dormant_stereo"
+		"sound_id": "modfest:music.stereo/dormant"
 	}
 }

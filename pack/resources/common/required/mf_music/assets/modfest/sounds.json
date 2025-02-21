@@ -1,12 +1,15 @@
 {
 	"music.dormant": {
+		"subtitle": {
+			"translate": "now-playing.modfest:music/dormant"
+		},
 		"sounds": [
 			"modfest:music/dormant"
 		]
 	},
-	"music.dormant.stereo": {
+	"music.stereo.dormant": {
 		"sounds": [
-			"modfest:music/dormant_stereo"
+			"modfest:music/stereo/dormant"
 		]
 	},
 	"music.mechanical_plateau": {
@@ -14,9 +17,9 @@
 			"modfest:music/mechanical_plateau"
 		]
 	},
-	"music.mechanical_plateau_stereo": {
+	"music.stereo.mechanical_plateau": {
 		"sounds": [
-			"modfest:music/mechanical_plateau_stereo"
+			"modfest:music/stereo/mechanical_plateau"
 		]
 	}
 }

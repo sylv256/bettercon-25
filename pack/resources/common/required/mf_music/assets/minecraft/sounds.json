@@ -3,7 +3,7 @@
 		"replace": true,
 		"sounds": [
 			{
-				"name": "modfest:music/dormant_stereo",
+				"name": "modfest:music/stereo/dormant",
 				"stream": true
 			}
 		]
@@ -12,7 +12,7 @@
 		"replace": true,
 		"sounds": [
 			{
-				"name": "modfest:music/mechanical_plateau_stereo",
+				"name": "modfest:music/stereo/mechanical_plateau",
 				"stream": true
 			}
 		]
