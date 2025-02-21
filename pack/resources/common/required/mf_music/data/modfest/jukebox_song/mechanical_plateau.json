@@ -3,7 +3,7 @@
 	"description": {
 		"translate": "now-playing.modfest:music/mechanical_plateau"
 	},
-	"length_in_seconds": 96.0,
+	"length_in_seconds": 238.0,
 	"sound_event": {
 		"sound_id": "modfest:music.mechanical_plateau"
 	}
