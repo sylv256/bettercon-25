@@ -56,7 +56,7 @@ def main():
             raise Exception(f"{e} was given as an exclusion, but is not a submission id. It's also not a file name of a `.pw.toml` included in any submission. Was it a typo?")
 
     os.chdir(dest_pack)
-    subprocess.run([packwiz, "refresh"])
+    subprocess.run([packwiz, "refresh", "--build"])
 
 if __name__ == "__main__":
     main()
