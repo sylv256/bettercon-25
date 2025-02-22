@@ -6,7 +6,7 @@
 				"discipline": "Volunteer Artists",
 				"titles": [
 					{
-						"title": "Lead Soundtrack Artist",
+						"title": "Soundtrack Mastering / Lead",
 						"names": [
 							"Nulb"
 						]
@@ -14,20 +14,21 @@
 					{
 						"title": "Soundtrack Artist",
 						"names": [
+							"Nulb",
 							"WorldWidePixel",
-							"maple (lumiscosity)"
-						]
-					},
-					{
-						"title": "Additional Music",
-						"names": [
-							"Bandit (artificial.fever)"
+							"Pug (MerchantPug)"
 						]
 					},
 					{
 						"title": "Texture Artist",
 						"names": [
 							"wishi (dreamiwishi)"
+						]
+					},
+					{
+						"title": "Branding Artist",
+						"names": [
+							"acikek"
 						]
 					}
 				]
@@ -36,21 +37,19 @@
 				"discipline": "Volunteer Builders",
 				"titles": [
 					{
-						"title": "Volcano Island WorldPainter",
+						"title": "World Painter",
 						"names": [
 							"Phanastrae"
 						]
 					},
 					{
-						"title": "Mapwide Ghostbuilder",
+						"title": "World Builder",
 						"names": [
-							"Echo (CallMeEcho)"
-						]
-					},
-					{
-						"title": "Executive Minigamer",
-						"names": [
-							"apfelrunder"
+							"apfelrunder",
+							"Echo (CallMeEcho)",
+							"Superkat32",
+							"Phanastrae",
+							"Pug (MerchantPug)"
 						]
 					}
 				]
@@ -59,9 +58,15 @@
 				"discipline": "Volunteer Developers",
 				"titles": [
 					{
-						"title": "Re-Connector",
+						"title": "Website Developer",
 						"names": [
-							"Su5eD"
+							"WorldWidePixel"
+						]
+					},
+					{
+						"title": "Platform Developer",
+						"names": [
+							"TheEpicBlock"
 						]
 					}
 				]
@@ -76,25 +81,7 @@
 						]
 					},
 					{
-						"title": "Ghostshowrunner",
-						"names": [
-							"afamiliarquiet"
-						]
-					},
-					{
-						"title": "Shadow showrunner",
-						"names": [
-							"Chai"
-						]
-					},
-					{
-						"title": "Absentee sous-showrunners",
-						"names": [
-							"Sisby folk"
-						]
-					},
-					{
-						"title": "Hand of Epoch / Solve-everythinger",
+						"title": "Administrator",
 						"names": [
 							"TheEpicBlock"
 						]
@@ -120,157 +107,163 @@
 				"discipline": "Team Members",
 				"titles": [
 					{
-						"title": "Still technically the site admin",
+						"title": "Usurped administrator",
 						"names": [
 							"2xSaiko"
 						]
 					},
 					{
-						"title": "Bearer of the torch",
+						"title": "Marketing department",
 						"names": [
 							"acikek"
 						]
 					},
 					{
-						"title": "Archbuilder",
+						"title": "Imagination reifier",
 						"names": [
 							"afamiliarquiet"
 						]
 					},
 					{
-						"title": "Surprise fan artist",
+						"title": "Water drinker",
 						"names": [
 							"Aqua (aquaholic)"
 						]
 					},
 					{
-						"title": "Obvious Participant Plant",
+						"title": "Does a lotl",
 						"names": [
 							"Chai"
 						]
 					},
 					{
-						"title": "Cyborg-human media relations",
+						"title": "Theme conceptualizer",
 						"names": [
 							"CyborgPigeon"
 						]
 					},
 					{
-						"title": "Notorious painter",
+						"title": "Fruit salad impressionist",
 						"names": [
 							"wishi (dreamiwishi)"
 						]
 					},
 					{
-						"title": "Responsible adult",
+						"title": "Relevant historian",
 						"names": [
 							"Falkreon"
 						]
 					},
 					{
-						"title": "Twofer showrunner",
+						"title": "ModFest cleric",
 						"names": [
 							"hama"
 						]
 					},
 					{
-						"title": "Mod submission speedrunner",
+						"title": "Mysterious nixie",
 						"names": [
 							"Infinidoge"
 						]
 					},
 					{
-						"title": "Crisis response",
+						"title": "Creative double agent",
 						"names": [
 							"IThundxr"
 						]
 					},
 					{
-						"title": "Robotic robot whisperer",
+						"title": "lag ? crash : dream",
 						"names": [
 							"Jasmine (jaskarth)"
 						]
 					},
 					{
-						"title": "Worm and Wall builder",
+						"title": "Liminal decorationist",
 						"names": [
 							"June (Khazoda)"
 						]
 					},
 					{
-						"title": "Known Vriska",
+						"title": "Spamton Jumpscare",
 						"names": [
 							"vriska (leo60228)"
 						]
 					},
 					{
-						"title": "Showrunner's sober companion",
+						"title": "Watermelon owner",
 						"names": [
 							"Lgmrszd"
 						]
 					},
 					{
-						"title": "Tea party host",
+						"title": "Tea festival host",
 						"names": [
 							"Maximum"
 						]
 					},
 					{
-						"title": "Resident DJ",
+						"title": "Mixmaster",
 						"names": [
 							"Nulb"
 						]
 					},
 					{
-						"title": "Honourable server admin",
+						"title": "Occasional server admin",
 						"names": [
 							"oatmealine"
 						]
 					},
 					{
-						"title": "Server-side god-emperor",
+						"title": "The King",
 						"names": [
 							"Patbox"
 						]
 					},
 					{
-						"title": "Town founder / Modrinth enthusiast",
+						"title": "Minos, constructor of websites",
 						"names": [
 							"Prospector"
 						]
 					},
 					{
-						"title": "Still a site admin",
+						"title": "Domain baroness",
 						"names": [
 							"Pyrrha"
 						]
 					},
 					{
-						"title": "Stop-motion animator",
+						"title": "A/V expert",
 						"names": [
 							"Sammy"
 						]
 					},
 					{
-						"title": "Insidious idea-havers",
+						"title": "Finicky proser",
 						"names": [
 							"Sisby folk"
 						]
 					},
 					{
-						"title": "Saviour on two wheels",
+						"title": "Infrastructure extraordinaire",
 						"names": [
 							"TheEpicBlock"
 						]
 					},
 					{
-						"title": "Card dealer",
+						"title": "Area liberator",
+						"names": [
+							"Tomate0613"
+						]
+					},
+					{
+						"title": "Outlaw",
 						"names": [
 							"Trudle"
 						]
 					},
 					{
-						"title": "Mario 64 Enthusiast",
+						"title": "Create update leaker",
 						"names": [
 							"Tropheus Jay (TropheusJ)"
 						]
