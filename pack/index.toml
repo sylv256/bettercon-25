@@ -97,10 +97,6 @@ file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/chunks-fade-in.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
