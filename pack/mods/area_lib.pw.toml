@@ -3,11 +3,11 @@ filename = "area_lib-0.2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IBuXDbma/versions/DPhFfQLF/area_lib-0.2.4.jar"
+url = "https://cdn.modrinth.com/data/IBuXDbma/versions/5VhzvD7p/area_lib-0.2.4.jar"
 hash-format = "sha512"
-hash = "c47bb5f5ea88b99f50fe4f801aff2be8f2f4ee06d3657fd0d3cc483eea65054236fda113a6d38b391392028c503053f2533cb899dcb2c608cb14e66caf8efc31"
+hash = "9f3924b9268e83178c87002a417174681b0f1d20d9e1a44050499fe603c3d603503011bc780f8e4020ff86d509a1e4c3d7a9b95ad3a98d6f1a5c057162007895"
 
 [update]
 [update.modrinth]
 mod-id = "IBuXDbma"
-version = "DPhFfQLF"
+version = "5VhzvD7p"
