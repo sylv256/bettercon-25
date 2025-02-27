@@ -156,7 +156,7 @@ file = "mods/map-utils.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/meret-5.0.4.jar"
+file = "mods/meret-6.0.0.jar"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
