@@ -148,6 +148,10 @@ file = "mods/hoofprint.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/immortal-coral.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 metafile = true
 
