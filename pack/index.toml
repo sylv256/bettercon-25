@@ -136,6 +136,10 @@ metafile = true
 file = "mods/fireblanket-0.6.2+1.21.jar"
 
 [[files]]
+file = "mods/glide-away.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/glowcase.pw.toml"
 metafile = true
 
@@ -175,6 +179,10 @@ metafile = true
 
 [[files]]
 file = "mods/player-roles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
 metafile = true
 
 [[files]]
