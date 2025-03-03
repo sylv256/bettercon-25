@@ -1,0 +1,7 @@
+name = "item-model-component-backport"
+filename = "item_model_component_backport-1.0.0.jar"
+
+[download]
+url = "https://github.com/ModFest/item-model-component-backport/releases/download/1.0.0/item_model_component_backport-1.0.0.jar"
+hash-format = "sha256"
+hash = "020e2ed7949f3128fdd91682cc5bbd14d607f70e28cd88d5f1c174e03b85b822"
