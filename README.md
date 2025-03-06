@@ -8,8 +8,14 @@ A collaboration between XXX modders, as hosted by <a href="https://modfest.net">
 
 ---
 
-# BlanketCon '25: Unsup 1.1 Edition
-**This pack is unofficial**, so **don't harass the official pack creators**. If an issue is encountered, **create an issue on this repository**. This pack is meant for players needing Unsup 1.1.
+# Unsupported!
+This pack is unsupported. The latest version of the Blanketcon '25 pack now supports Unsup 1.1.
+
+Check the `unsup (Experimental)` option and uncheck the `unsup (Stable)` option.
+![The Versions tab of a Prism Launcher instance with unsup (Experimental) checked.](https://github.com/user-attachments/assets/21a1f9fc-a0e6-4bd6-8c4f-5577a511efb9)
+
+
+~~**This pack is unofficial**, so **don't harass the official pack creators**. If an issue is encountered, **create an issue on this repository**. This pack is meant for players needing Unsup 1.1.~~
 
 ## Usage
 To use this pack, open `unsup.ini` in the `.minecraft` folder and replace `source=https://modfest.github.io/blanketcon-25/pack.toml` with `source=https://sylv.gay/bettercon-25/pack.toml`.
