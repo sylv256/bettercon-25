@@ -154,7 +154,7 @@ def parse_packwiz(pack_toml_file: Any) -> PackwizPackInfo:
     loader_version = list(loaders.values())[0]
 
     for v in version_data:
-        if v not in ["minecraft", "unsup"] and v not in supported_loaders:
+        if v not in ["minecraft", "unsup", "unsup-stable", "unsup-experimental"] and v not in supported_loaders:
             raise Exception(f"pack is using unsupported software: {v}")
 
     return PackwizPackInfo(
