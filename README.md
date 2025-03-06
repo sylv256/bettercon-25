@@ -12,7 +12,7 @@ A collaboration between XXX modders, as hosted by <a href="https://modfest.net">
 **This pack is unofficial**, so **don't harass the official pack creators**. If an issue is encountered, **create an issue on this repository**. This pack is meant for players needing Unsup 1.1.
 
 ## Usage
-To use this pack, open `unsup.ini` in the `.minecraft` folder and replace `source=https://modfest.github.io/blanketcon-25/pack.toml` with `source=https://raw.githubusercontent.com/sylv256/bettercon-25/refs/heads/main/pack/pack.toml`.
+To use this pack, open `unsup.ini` in the `.minecraft` folder and replace `source=https://modfest.github.io/blanketcon-25/pack.toml` with `source=https://sylv.gay/bettercon-25/pack.toml`.
 
 ## Description
 
