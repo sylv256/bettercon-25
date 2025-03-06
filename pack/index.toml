@@ -144,6 +144,10 @@ file = "mods/glowcase.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/have-another-pretty-particle-yayyyyyyyy.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hoofprint.pw.toml"
 metafile = true
 
