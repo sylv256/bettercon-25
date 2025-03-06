@@ -11,6 +11,11 @@ A collaboration between XXX modders, as hosted by <a href="https://modfest.net">
 # BlanketCon '25: Unsup 1.1 Edition
 **This pack is unofficial**, so **don't harass the official pack creators**. If an issue is encountered, **create an issue on this repository**. This pack is meant for players needing Unsup 1.1.
 
+## Usage
+To use this pack, open `unsup.ini` in the `.minecraft` folder and replace `source=https://modfest.github.io/blanketcon-25/pack.toml` with `source=https://raw.githubusercontent.com/sylv256/bettercon-25/refs/heads/main/pack/pack.toml`.
+
+## Description
+
 **BlanketCon '25** is an in-minecraft virtual event that runs from March 28th through March 31st, 2025.
 
 This modpack contains all mods from the event - and the convention world, packed with community-made booths!
