@@ -8,8 +8,8 @@ A collaboration between XXX modders, as hosted by <a href="https://modfest.net">
 
 ---
 
-# This Pack Is Unsupported!
-Support will not be given. This pack is meant for players needing Unsup 1.1.
+# BlanketCon '25: Unsup 1.1 Edition
+**This pack is unofficial**, so **don't harass the official pack creators**. If an issue is encountered, **create an issue on this repository**. This pack is meant for players needing Unsup 1.1.
 
 **BlanketCon '25** is an in-minecraft virtual event that runs from March 28th through March 31st, 2025.
 
