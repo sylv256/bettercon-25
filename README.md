@@ -8,6 +8,9 @@ A collaboration between XXX modders, as hosted by <a href="https://modfest.net">
 
 ---
 
+# This Pack Is Unsupported!
+Support will not be given. This pack is meant for players needing Unsup 1.1.
+
 **BlanketCon '25** is an in-minecraft virtual event that runs from March 28th through March 31st, 2025.
 
 This modpack contains all mods from the event - and the convention world, packed with community-made booths!
